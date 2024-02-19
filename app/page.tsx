@@ -1,4 +1,3 @@
-import Image from "next/image";
 import Header from "./ui/header/header";
 import Collection from "./ui/collection/collection";
 import { Suspense } from 'react';

@@ -183,6 +183,6 @@ export async function getData() {
     return new Promise((resolve) => {
         setTimeout(() => {
             resolve(data);
-        }, 3000); // Simula un retraso de 1 segundo
+        }, 3000);
     });
 }
